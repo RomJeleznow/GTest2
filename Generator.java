@@ -1,4 +1,4 @@
 
 interface Generator<T>{
-	T generate();
+	T next();
 }
